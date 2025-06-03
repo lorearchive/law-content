@@ -17,6 +17,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 \\
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
+<callout type="warning" title="In the context section...">Although most articles are kept neutral, civilized and centered, some texts in this section may seem **controversial** as it contains highly scientific, symbolic, philosophical, religious, and metaphysical elements, most of which are looked through the lens of **comparative religion** and/or **historical point of views**, and includes **personal opinions and viewpoints**. The context section is difficult to fact-check in terms of being recognized as canon material due to its nature and nothing is confirmed or proven officially, and are **assumptions**. Proceed with caution when reading this section.</callout>
 
 Where does it come from?
 
