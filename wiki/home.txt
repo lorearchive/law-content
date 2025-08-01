@@ -3,7 +3,7 @@
 
 test
 
-{{/image.png?400|Sigma}}
+{{  /image.png?400|Sigma}}
 
 ===== What is Lorem Ipsum? =====
 
