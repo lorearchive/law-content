@@ -25,7 +25,7 @@ Where does it come from?
 Every usage manual of the Lore Archive are editable by the public, just likes its wiki content and everything else. If you can see a way to improve anything on this document, please read our guide on "Contributing on GitHub", which can be found below.
 </callout>
 
-{{/image.png?200|sigma}}
+{{  /image.png?200|sigma}}
 
 <table class="affili"><thead><tr><th colspan="2">A member of</th></tr></thead><tbody><tr><td colspan="2">
 **SRT Academy**
