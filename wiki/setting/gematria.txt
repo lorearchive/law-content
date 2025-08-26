@@ -4,34 +4,8 @@
 (((citation|November 2024)))
 
 
-[{{  :pasted:20241111-081705.png?400|The four iconic members of Gematria.}}]
+{{  :pasted:20241111-081705.png?400|The four iconic members of Gematria.}}
 
-<table profileTable><thead><tr><th [colspan=2]>
-Members of
-</th></tr></thead><tbody><tr><td [colspan=2] center>
-**Gematria**
-</td></tr><tr><td [colspan=2] center>
-<division class="profileList list-group">
-<alink ":people:gematria:black_suit" class="list-group-item list-group-item-action">
-<alink ":people:gematria:maestro" class="list-group-item list-group-item-action">
-<alink ":people:gematria:" class="list-group-item list-group-item-action">
-<alink ":people:beatrice" class="list-group-item list-group-item-action">
-</division>
-</td></tr><tr><td [colspan=2] center>
-<buttonbutton class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#gematriaafterpart1" aria-expanded="false" aria-controls="gematriaafterpart1">After Part 1</buttonbutton>
-<division class="collapse" id="gematriaafterpart1">
-<division class="profileList list-group">
-<alink ":people:gematria:black_suit" class="list-group-item list-group-item-action">
-<alink ":people:gematria:maestro" class="list-group-item list-group-item-action">
-<alink ":people:gematria:" class="list-group-item list-group-item-action">
-<alink ":people:undergrounddweller" class="list-group-item list-group-item-action">
-</division>
-</division>
-</td></tr><tr><td center>
-**First Appearance**
-</td><td>
-Citation needed
-</td></tr></tbody></table>
 
 A mysterious organization which operates in Kivotos in //Blue Archive//. Their name, "Gematria", refers to [[wp>Gematria|traditional Israeli numerology that assigns numerical values to Hebrew letters for encryption or mystical interpretations]]. In the Taiwanese server, they are called "Shubishu" (數秘術, meaning numerology), and in the Chinese server, they are called "Shubiwei" (数秘会, meaning numerology association).
 
