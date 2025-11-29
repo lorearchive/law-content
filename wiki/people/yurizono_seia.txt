@@ -1,6 +1,6 @@
 ====== Yurizono Seia ======
 (((unfinished|December 2024)))
 ----
-<infotable name="seia" />
+<infotable name="seia" caption="Caption required." />
 
 <affili school="trinity" name="seia" fAppear="FIXME" />
