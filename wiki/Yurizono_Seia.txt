@@ -1,0 +1,25 @@
+====== Yurizono Seia ======
+(((unfinished|December 2024)))
+----
+<table profileTable><thead><tr><th [colspan=2]>
+SEIA
+</th></tr></thead><tbody><tr><td profileTableImage [colspan=2]>
+{{:people:trinity:pasted:20241226-024620.png?330}} \\ //Seia of a different timeline.//
+</td></tr><tr><td profileTableLeftCell>**Name**</td><td>
+Yurizono Seia \\ 🇰🇷 유리조노 세이아 \\ 🇯🇵 百合園 セイア  \\ 🇨🇳 百合园 圣娅 | 聖亞
+</td></tr><tr><td profileTableLeftCell>**Affiliation**</td><td>
+[[setting:academies:trinity]], 3rd Year
+</td></tr><tr><td profileTableLeftCell>**Clubs**</td><td>
+[[setting:academies:trin_clubs#student_counciltea_party|Tea Party]], <del>Host</del>((Originally, Seia was supposed to take the position, but due to her health issues, [[:people:trinity:nagisa]] is taking over the role instead.)) \\ Sanctus Faction Leader
+</td></tr><tr><td profileTableLeftCell>**Illustrator**</td><td>
+kokosando
+</td></tr><tr><td profileTableLeftCell>**Halo**</td><td>
+{{:people:trinity:pasted:20241226-025103.png?100}}
+</td></tr></tbody></table>
+
+
+<table affili><thead><tr><th [colspan=2]>A member of</th></tr></thead><tbody><tr><td [colspan=2]>
+**Trinity General School** \\ [[:setting:academies:trinity|{{:icons:trin.png?100}}]]
+</td></tr><tr><td [colspan=2]><club tea>
+</td></tr><tr><td center>
+**First Appearance**</td><td>FIXME</td></tr></tbody></table>
