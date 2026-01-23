@@ -7,7 +7,7 @@ name="hoshino"
 caption="caption rq"
 alias="타카나시 호시노 \\ 小鳥遊 ホシノ  \\ 小鸟游 星野"
 affiliation="[[setting:academies:abydos#abydos_high_school|Abydos High School]], 3rd Year"
-club="Foreclosure Task Force"
+clubs="Foreclosure Task Force"
 age="17"
 height="145cm"
 />
