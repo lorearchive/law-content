@@ -5,7 +5,7 @@
 {{  icons:abyd.png  }}
 (((academies|abydos)))
 
-An educational institution of [[setting:synopsis#kivotos|Kivotos]], and the main stage for Volume 1. An academy of //Blue Archive//.
+An educational institution of [[setting/synopsis#kivotos|Kivotos]], and the main stage for Volume 1. An academy of //Blue Archive//.
 
 
 ===== Background =====
@@ -20,10 +20,7 @@ The school, in its attempts to solve desertification, accumulated an enormous am
 The loan amount these students have mortgaged to Kaiser Loan, a private moneylending company, amounts to a staggering 962.35 million yen, and they are paying monthly interest of 7.88 million yen.
 \\
 
-===== Campus =====
-
-|{{illust:scenary:abydoshigh_front.png}}|  {{:pasted:20240714-133051.png}}  |
-^  Entrance   ^   Top-down view of the Campus   ^
+===== Campus ====
 
 
 The school building looks just like an ordinary Japanese high school that might appear in a school-themed story. There are some differences when compared to the in-game illustrations, and this is also true for Gehenna Academy. In the animation's concept art, there are slight changes, like adjustments to the location of annex buildings or a different location for the main gate.
@@ -48,9 +45,9 @@ Even though the committee members claim they've already sold anything worth sell
 
 ===== The District =====
 
-[{{ illust:scenary:abydos_sand.png?400|The desertifying Abydos.}}]
+{{ illust/scenary/abydos_sand.png?400|The desertifying Abydos.}}
 
-A large, desertifying district in [[setting:synopsis#kivotos|Kivotos]]. The desertification of the district is ongoing, and residents are leaving their hometowns. [[abydos#abydos_high_school|Abydos High School]], which should address this issue, is not only unable to allocate a budget to solve it but is struggling just to pay off monthly debts and interest. As a result, desertification is effectively being neglected. The main building of Abydos High School, the oldest school in Kivotos, along with the building where Hoshino enrolled, is now buried in the sand.
+A large, desertifying district in [[setting/synopsis#kivotos|Kivotos]]. The desertification of the district is ongoing, and residents are leaving their hometowns. [[abydos#abydos_high_school|Abydos High School]], which should address this issue, is not only unable to allocate a budget to solve it but is struggling just to pay off monthly debts and interest. As a result, desertification is effectively being neglected. The main building of Abydos High School, the oldest school in Kivotos, along with the building where Hoshino enrolled, is now buried in the sand.
 
 Nevertheless, winter itself exists, and judging by the formation of wadis, it doesn't seem entirely barren yet. Observing the uniforms of Abydos students or the description of winter, it doesn't appear particularly hot((When people think of deserts, there's a bias toward assuming they're hot, but this varies by desert. At night, due to low humidity, deserts can be as cold as ice.)), indicating that distinct seasons are indeed present.
 
@@ -60,7 +57,7 @@ Abydos High School's former Student Council has sold land to Kaiser Corporation 
 ==== The Desertification ====
 
 
-[{{  pasted:20240711-115804.png?400|The Abydos district as shown in the TVA.}}]
+[{{  pasted/20240711-115804.png?400|The Abydos district as shown in the TVA.}}]
 
 
 In the TVA, the damage caused by desertification is described in more detail, not just as sand gradually covering neighborhoods, but involving several massive sandstorms. If it had just been a matter of sand gradually covering, it could have been resolved by deploying street sweepers and the like, a problem some Middle Eastern countries also handle this way in reality. However, with sandstorms dumping enormous amounts of sand across districts, there was no way to prevent it once it started spreading.
@@ -70,7 +67,7 @@ Abydos attempted to secure loans to restore the district, but no bank would lend
  However, these efforts were in vain as sandstorms repeatedly struck the district of Abydos, each time forcing them to borrow from Kaiser Loan to cover the costs. As a result, Abydos High School accumulated an enormous amount of debt.
 ==== Etymology ====
 
-The name "Abydos" probably comes from the ancient Egyptian city Abydos, one of the oldest cities of ancient Egypt. Fore more information, check the [[:c_abydos|C:]] document.
+The name "Abydos" probably comes from the ancient Egyptian city Abydos, one of the oldest cities of ancient Egypt. Fore more information, check the [[/c_abydos|C/]] document.
 
 
 
@@ -78,16 +75,16 @@ The name "Abydos" probably comes from the ancient Egyptian city Abydos, one of t
 
 ===== Shiba Seki Ramen =====
 
-[{{  :illust:scenary:shibaseki_front.png?400|Shiba Seki Ramen front entrance.}}]
+[{{  /illust/scenary/shibaseki_front.png?400|Shiba Seki Ramen front entrance.}}]
 
 It's a ramen shop where Serika works part-time, one of the few restaurants still properly operating in the collapsing Abydos.
 
 While the name in Japanese seems to simply reflect the fact that the shop owner resembles a Shiba Inu dog, in Korean it evokes a specific profanity((Presumed to be intentional.)). As a result, it became a minor topic of discussion for a while after the official release in Korea.
 
-[{{  illust:scenary:shibaseki_topdown.png?400|A bird's-eye view of Shibaseki Ramen as depicted in Aru's character PV video, showing it moments before being blown by Haruka. The small building in the center is Shibaseki Ramen.}}]
+[{{  illust/scenary/shibaseki_topdown.png?400|A bird's-eye view of Shibaseki Ramen as depicted in Aru's character PV video, showing it moments before being blown by Haruka. The small building in the center is Shibaseki Ramen.}}]
  
 
-While the in-game appearance might suggest it's located in a relatively intact urban area, this is actually due to the game's frequent reuse of cityscape background illustrations. In reality, the desertification of Abydos is extremely severe:
+While the in-game appearance might suggest it's located in a relatively intact urban area, this is actually due to the game's frequent reuse of cityscape background illustrations. In reality, the desertification of Abydos is extremely severe/
 
   *The desert has encroached up to the city center
   *Even four-lane roads are covered in sand
@@ -96,11 +93,11 @@ Interestingly, in the anime version, Shibaseki Ramen is portrayed as being in an
 
 ===== See Also =====
 
-  *[[people:abydos:shiroko]]
-  *[[people:abydos:hoshino]]
-  *[[people:abydos:nonomi]]
-  *[[people:abydos:serika]]
-  *[[people:abydos:ayane]]
+  *[[people/abydos/shiroko]]
+  *[[people/abydos/hoshino]]
+  *[[people/abydos/nonomi]]
+  *[[people/abydos/serika]]
+  *[[people/abydos/ayane]]
 
 ----
 == References ==
