@@ -2,7 +2,7 @@
 (((citation|November 2024)))
 
 ----
-{{  icons:abyd.png  }}
+{{  icons/abyd.png  }}
 (((academies|abydos)))
 
 An educational institution of [[setting/synopsis#kivotos|Kivotos]], and the main stage for Volume 1. An academy of //Blue Archive//.
@@ -10,10 +10,10 @@ An educational institution of [[setting/synopsis#kivotos|Kivotos]], and the main
 
 ===== Background =====
 
-[{{ logos:abyd_banner.png?400|The logo of Abydos High School.}}]
+{{ logos/abyd_banner.png?400|The logo of Abydos High School.}}
 
 
-The longest running school in [[setting:synopsis#kivotos|Kivotos]], formerly thriving and boasting incredible financial and military power, before the unnatural and unfortunate desertification struck. Nowadays, most of its buildings have been covered in sand and ruins, leaving behind only an annex which seems to be the very last remains of the school.
+The longest running school in [[setting/synopsis#kivotos|Kivotos]], formerly thriving and boasting incredible financial and military power, before the unnatural and unfortunate desertification struck. Nowadays, most of its buildings have been covered in sand and ruins, leaving behind only an annex which seems to be the very last remains of the school.
 
 The school, in its attempts to solve desertification, accumulated an enormous amount of debt that it couldn't withstand. As a result, the majority of students left, and now only five students belonging to the Foreclosure Task Force remain. The situation has reached a point where the school is on the verge of closure.
 
@@ -57,7 +57,7 @@ Abydos High School's former Student Council has sold land to Kaiser Corporation 
 ==== The Desertification ====
 
 
-[{{  pasted/20240711-115804.png?400|The Abydos district as shown in the TVA.}}]
+{{  pasted/20240711-115804.png?400|The Abydos district as shown in the TVA.}}
 
 
 In the TVA, the damage caused by desertification is described in more detail, not just as sand gradually covering neighborhoods, but involving several massive sandstorms. If it had just been a matter of sand gradually covering, it could have been resolved by deploying street sweepers and the like, a problem some Middle Eastern countries also handle this way in reality. However, with sandstorms dumping enormous amounts of sand across districts, there was no way to prevent it once it started spreading.
@@ -75,13 +75,13 @@ The name "Abydos" probably comes from the ancient Egyptian city Abydos, one of t
 
 ===== Shiba Seki Ramen =====
 
-[{{  /illust/scenary/shibaseki_front.png?400|Shiba Seki Ramen front entrance.}}]
+{{  /illust/scenary/shibaseki_front.png?400|Shiba Seki Ramen front entrance.}}
 
 It's a ramen shop where Serika works part-time, one of the few restaurants still properly operating in the collapsing Abydos.
 
 While the name in Japanese seems to simply reflect the fact that the shop owner resembles a Shiba Inu dog, in Korean it evokes a specific profanity((Presumed to be intentional.)). As a result, it became a minor topic of discussion for a while after the official release in Korea.
 
-[{{  illust/scenary/shibaseki_topdown.png?400|A bird's-eye view of Shibaseki Ramen as depicted in Aru's character PV video, showing it moments before being blown by Haruka. The small building in the center is Shibaseki Ramen.}}]
+[{  illust/scenary/shibaseki_topdown.png?400|A bird's-eye view of Shibaseki Ramen as depicted in Aru's character PV video, showing it moments before being blown by Haruka. The small building in the center is Shibaseki Ramen.}}
  
 
 While the in-game appearance might suggest it's located in a relatively intact urban area, this is actually due to the game's frequent reuse of cityscape background illustrations. In reality, the desertification of Abydos is extremely severe/
@@ -101,6 +101,6 @@ Interestingly, in the anime version, Shibaseki Ramen is portrayed as being in an
 
 ----
 == References ==
-[[https://namu.wiki/w/%EC%95%84%EB%B9%84%EB%8F%84%EC%8A%A4%20%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90|Namuwiki | “블루 아카이브”, 학원, 아비도스 고등학교]]
+[[https///namu.wiki/w/%EC%95%84%EB%B9%84%EB%8F%84%EC%8A%A4%20%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90|Namuwiki | “블루 아카이브”, 학원, 아비도스 고등학교]]
 
-[[https://bluearchive.fandom.com/wiki/Abydos_High_School|Fandom | “Blue Archive Wiki”, Abydos High School]]
+[[https///bluearchive.fandom.com/wiki/Abydos_High_School|Fandom | “Blue Archive Wiki”, Abydos High School]]
