@@ -49,7 +49,7 @@ Their names are derived from the [[wp>Sefirot]], which represent the different a
 
 The Prophets themselves have no physical form as an AI, but most Prophets shown in the work are installed in massive machines. The combat capabilities of these machines housing the Prophet AIs are quite impressive. In the story, even major factions like Kaiser PMC and Millennium are only able to temporarily disable, let alone completely destroy, the machines containing the Prophet AIs. They seem to be recognized as a significant asymmetric force even by the Chroma, as when stealing Gematria's military power, they used the three Prophets of Decagrammaton - Hod, Binah, and Chesed- as guardians of the sanctum. Even Keter, which has the lowest technical completion, was used as a defensive force for Atrahasis's ark.
 
-{{wp>Sefirot}}
+wp>Sefirot
 
 
 === The First Prophet, Kether ===
