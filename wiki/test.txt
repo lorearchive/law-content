@@ -1,7 +1,3 @@
----
-title: "Your Page Title"
----
-
 ====== Test ======
 ===== Tesrt =====
 
